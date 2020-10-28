@@ -4,4 +4,4 @@
 
 Track your CPU usage right on your desktop! Responsive box-shadow corresponds to system load. Coooool stuff
 
-The font used is [https://www.fontspace.com/doubleplus-font-f43674](Doubleplus) by chequred Ink.
+The font used is [Doubleplus](https://www.fontspace.com/doubleplus-font-f43674) by chequred Ink.
